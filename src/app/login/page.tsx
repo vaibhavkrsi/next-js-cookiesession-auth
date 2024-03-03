@@ -5,6 +5,7 @@ const LoginPage = () => {
     <div className="login">
      <h1>Welcome to LoginPage.</h1> 
       <LoginForm/>
+      <p>Checking</p>
     </div>
   )
 }
